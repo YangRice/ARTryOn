@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTryOn.Plugins", "ARTryOn.Plugins.csproj", "{5279BECC-1449-ECC5-9E32-ABF0B94D3E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTryOn", "ARTryOn.csproj", "{8CEE26A0-EBB9-052B-C1F5-EBC6DC08EA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTryOn.Editor.Plugins", "ARTryOn.Editor.Plugins.csproj", "{8C7C519E-09A9-F380-AE6F-25A1F062C110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5279BECC-1449-ECC5-9E32-ABF0B94D3E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5279BECC-1449-ECC5-9E32-ABF0B94D3E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5279BECC-1449-ECC5-9E32-ABF0B94D3E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5279BECC-1449-ECC5-9E32-ABF0B94D3E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CEE26A0-EBB9-052B-C1F5-EBC6DC08EA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEE26A0-EBB9-052B-C1F5-EBC6DC08EA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEE26A0-EBB9-052B-C1F5-EBC6DC08EA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEE26A0-EBB9-052B-C1F5-EBC6DC08EA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7C519E-09A9-F380-AE6F-25A1F062C110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7C519E-09A9-F380-AE6F-25A1F062C110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7C519E-09A9-F380-AE6F-25A1F062C110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7C519E-09A9-F380-AE6F-25A1F062C110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
